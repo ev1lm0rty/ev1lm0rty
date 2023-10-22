@@ -8,7 +8,7 @@
 Highly skilled and certified Security Engineer with expertise in threat modeling, secure code reviews, and penetration testing. Passionate about implementing security-by-design and proactive risk management in DevSecOps environments.
 
 
-## 👨💼 Professional Summary
+## 💼 Professional Summary
 - **Years of Experience**: 3+ years specializing in application and network security
 - **Skills**: DAST, SAST, Vulnerability Assessment, DevSecOps, Threat Modeling
 
